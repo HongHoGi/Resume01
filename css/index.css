@@ -157,7 +157,7 @@ section {
     transition-delay:0.9s;
 }
 .skillContainer.on > div.react > .score {
-    height:50%; 
+    height:20%; 
     transition-delay:1.2s;
 }
 
