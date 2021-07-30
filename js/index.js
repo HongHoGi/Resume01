@@ -21,7 +21,7 @@ $('#menu li a').on('click focus', function(e){
             count(70, '.css', 16)
             count(60, '.script', 17)
             count(60, '.jquery', 18)
-            count(50, '.react', 19)
+            count(20, '.react', 19)
         }
     }
 
@@ -101,7 +101,7 @@ $(window).on('scroll', function(){
             count(70, '.css', 16)
             count(60, '.script', 17)
             count(60, '.jquery', 18)
-            count(50, '.react', 19)
+            count(20, '.react', 19)
         }
         $('#sect3').removeClass('on')
         $('#sect3 ul li').css({ transitionDelay:'0s' })
